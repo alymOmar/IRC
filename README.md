@@ -28,3 +28,21 @@ and
 ```sh
 sudo nc -nlvp 666
 ```
+
+### Commands :
+Private message :
+```
+/msg nickname message
+```
+Change nickname :
+```
+/nick newNickname
+```
+Register nickname :
+```
+/msg NickServ REGISTER password email
+```
+Identify as a registered nickname :
+```
+/msg NickServ IDENTIFY nickname password email
+```
