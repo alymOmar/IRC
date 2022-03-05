@@ -3,7 +3,7 @@
 To compile :
 ```sh
 cd ./src
-chmod .x ./makefile
+chmod .x ./build.sh
 ./makefile
 ```
 
