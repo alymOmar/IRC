@@ -4,7 +4,7 @@ To compile :
 ```sh
 cd ./src
 chmod +x ./build.sh
-./makefile
+./build.sh
 ```
 
 To start the server :
